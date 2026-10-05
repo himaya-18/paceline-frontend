@@ -21,7 +21,11 @@ This project was developed as part of the DCS Web Cluster Frontend Task.
 
 * Responsive design for desktop, tablet and mobile
 * Product category sections
+* Product ratings and stock urgency
 * Product filtering
+* Back-to-top button and cookie banner
+* Gait booking form
+* Dark mode
 * Currency Switcher
 * Wishlist interaction
 * Cart interaction
